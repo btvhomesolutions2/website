@@ -1,0 +1,24 @@
+{
+  "name": "restfulcustomer",
+  "version": "1.0.0",
+  "description": "Create Customer Profiles using RESTful API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Donnie R. Battle Jr.",
+  "license": "ISC",
+  "dependencies": {
+    "blueimp-md5": "^2.10.0",
+    "body-parser": "^1.18.2",
+    "braintree": "^2.7.0",
+    "braintree-web-drop-in": "^1.9.4",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "express-dynamic-partials": "^0.1.1",
+    "express-sanitizer": "^1.0.3",
+    "method-override": "^2.3.10",
+    "mongoose": "^5.0.6",
+    "superagent": "^3.8.2"
+  }
+}
